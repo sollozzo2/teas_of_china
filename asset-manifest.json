@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/teas_of_china/static/css/main.c869b1d7.css",
+    "main.js": "/teas_of_china/static/js/main.7f27e2d8.js",
+    "static/js/512.e9694a12.chunk.js": "/teas_of_china/static/js/512.e9694a12.chunk.js",
+    "static/media/tea.png": "/teas_of_china/static/media/tea.f72b07eff9d831ca4c42.png",
+    "static/media/biluochuncomp.png": "/teas_of_china/static/media/biluochuncomp.6e3d08feb1905f5ec502.png",
+    "static/media/dianhongcomp.png": "/teas_of_china/static/media/dianhongcomp.4fdb551a63e836573ed9.png",
+    "static/media/qimencomp.png": "/teas_of_china/static/media/qimencomp.d72b6ad9d249003a71eb.png",
+    "static/media/dahongpaocomp.png": "/teas_of_china/static/media/dahongpaocomp.a149770a1e2f3b406d27.png",
+    "static/media/shoumeicomp.png": "/teas_of_china/static/media/shoumeicomp.ebd88d82fb59c6fce376.png",
+    "static/media/twoolongcomp.png": "/teas_of_china/static/media/twoolongcomp.4fdeb7f777e95af3b56c.png",
+    "static/media/baihaocomp.png": "/teas_of_china/static/media/baihaocomp.4b985e37e87759c653c3.png",
+    "static/media/longjingcomp.png": "/teas_of_china/static/media/longjingcomp.81759709918a8446676f.png",
+    "static/media/huangchacomp.png": "/teas_of_china/static/media/huangchacomp.bb4e4f4d5a9189e26548.png",
+    "static/media/puerhcomp.png": "/teas_of_china/static/media/puerhcomp.84e308b0343f1bd76bc3.png",
+    "index.html": "/teas_of_china/index.html",
+    "main.c869b1d7.css.map": "/teas_of_china/static/css/main.c869b1d7.css.map",
+    "main.7f27e2d8.js.map": "/teas_of_china/static/js/main.7f27e2d8.js.map",
+    "512.e9694a12.chunk.js.map": "/teas_of_china/static/js/512.e9694a12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c869b1d7.css",
+    "static/js/main.7f27e2d8.js"
+  ]
+}
