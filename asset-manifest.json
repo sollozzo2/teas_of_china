@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/teas_of_china/static/css/main.c869b1d7.css",
-    "main.js": "/teas_of_china/static/js/main.7f27e2d8.js",
+    "main.js": "/teas_of_china/static/js/main.20100180.js",
     "static/js/512.e9694a12.chunk.js": "/teas_of_china/static/js/512.e9694a12.chunk.js",
     "static/media/tea.png": "/teas_of_china/static/media/tea.f72b07eff9d831ca4c42.png",
     "static/media/biluochuncomp.png": "/teas_of_china/static/media/biluochuncomp.6e3d08feb1905f5ec502.png",
@@ -16,11 +16,11 @@
     "static/media/puerhcomp.png": "/teas_of_china/static/media/puerhcomp.84e308b0343f1bd76bc3.png",
     "index.html": "/teas_of_china/index.html",
     "main.c869b1d7.css.map": "/teas_of_china/static/css/main.c869b1d7.css.map",
-    "main.7f27e2d8.js.map": "/teas_of_china/static/js/main.7f27e2d8.js.map",
+    "main.20100180.js.map": "/teas_of_china/static/js/main.20100180.js.map",
     "512.e9694a12.chunk.js.map": "/teas_of_china/static/js/512.e9694a12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c869b1d7.css",
-    "static/js/main.7f27e2d8.js"
+    "static/js/main.20100180.js"
   ]
 }
